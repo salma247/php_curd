@@ -1,0 +1,28 @@
+body{
+  background-color: #222;
+  font-family: 'Andada Pro', serif;
+  font-weight: bold;
+}
+.send{
+  float: right;
+}
+.send{
+  background-color: #FAD02C;
+  font-weight: bold;
+  color: white;
+}
+.send:hover{
+  background-color: #ffd016;
+  color: white;
+}
+
+.del{
+  background-color: #fa3a2c;
+  font-weight: bold;
+  color: white;
+  
+}
+.del:hover{
+  background-color: #ff1504;
+  color: white;
+}
